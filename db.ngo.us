@@ -72,4 +72,11 @@ schoolphobia	86400	IN	NS	dolly.ns.cloudflare.com.
 ymhc	86400	IN	NS	achiel.ns.cloudflare.com.
 ymhc	86400	IN	NS	dolly.ns.cloudflare.com.
 
+; zam team
+; Submitted by ITS <zam@ymhc.ngo>
+; Submitted by networking team <zam.zhangmeng@gmail.com>
+zam team 86400 IN NS example1.ns  ethan.ns.cloudflare.com
+zam team 86400 IN NS example2.ns  novalee.ns.cloudflare.com
+
+
 ; ========== END ORGANIZATIONS ================
